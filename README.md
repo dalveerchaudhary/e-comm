@@ -1,6 +1,23 @@
-# React + Vite
+# React Project E-Commerce 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to our Minimal E-Commerce Store built using the MERN (MongoDB, Express, React, Node.js) stack. This application provides a user-friendly and efficient platform for browsing, searching, and purchasing products. It includes features such as user authentication, product categorization, shopping cart management, secure payment processing, and more.
+
+React.js provides a minimal setup to working project with Vite is quick and efficient.
+
+# Setup Project
+
+1. Clone the repository:
+   git clone https://github.com/dalveerchaudhary/e-comm.git 
+   
+2. Install the dependencies:
+   npm install
+
+3. Start the frontend development server:
+   npm run dev
+
+   
+
+          
 
 Currently, two official plugins are available:
 
